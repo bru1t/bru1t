@@ -1,18 +1,18 @@
 # Alexey "bru1t" Kuznetsov
 
-<!-- VK Logo -->
+
 <a href="https://vk.com/bru1t" target="_blank" title="VK Page">
   <img height="30" alt="[VK Logo]" src="materials/media-icons/vk-circle-512x512.png" />
 </a> &nbsp;
-<!-- Facebook Logo -->
+
 <a href="https://www.facebook.com/lexey.ov" target="_blank" title="Facebook Page">
   <img height="30" alt="[Facebook Logo]" src="materials/media-icons/facebook-circle-512x512.png" />
 </a> &nbsp;
-<!-- LinkedIn Logo -->
+
 <a href="https://www.linkedin.com/in/bru1t" target="_blank" title="LinkedIn Page">
   <img height="30" alt="[LinkedIn Logo]" src="materials/media-icons/linkedin-circle-512x512.png" />
 </a> &nbsp;
-<!-- Spotify Logo -->
+
 <a href="https://open.spotify.com/user/qlfeqhdjkznrcggijvyidxohq?si=42d180591660430a" target="_blank" title="Spotify Page">
   <img height="30" alt="[Spotify Logo]" src="materials/media-icons/spotify-circle-512x512.png" />
 </a>
@@ -47,19 +47,23 @@ C:\Users\bru1t>
 
 #### 💻 Languages:
 
+<img height="30" alt="[Java Logo]" src="materials/lang-icons/java-512x512.png" /> &nbsp;
 <img height="30" alt="[C Logo]" src="materials/lang-icons/c-464x512.png" /> &nbsp;
 <img height="30" alt="[C++ Logo]" src="materials/lang-icons/cpp-440x512.png" /> &nbsp;
 <img height="30" alt="[Haskell Logo]" src="materials/lang-icons/haskell-728x512.png" /> &nbsp;
-<img height="30" alt="[HTML5 Logo]" src="materials/lang-icons/html5-512x512.png" /> &nbsp;
-<img height="30" alt="[CSS3 Logo]" src="materials/lang-icons/css3-512x512.png" />
+<img height="30" alt="[R Logo]" src="materials/lang-icons/r-project-icon.svg" /> &nbsp;
+<img height="30" alt="[JavaScript Logo]" src="materials/lang-icons/javascript-icon.svg" /> &nbsp;
+<img height="30" alt="[HTML5 Logo]" src="materials/lang-icons/html5-icon.svg" /> &nbsp;
+<img height="30" alt="[CSS3 Logo]" src="materials/lang-icons/css-icon.svg" />
 
 ---
 
 #### 🧰 Tools:
 
-<img height="30" alt="[Git Logo]" src="materials/tools-icons/git-512x512.png" /> &nbsp;
-<img height="30" alt="[Docker Logo]" src="materials/tools-icons/docker-731x512.png" /> &nbsp;
-<img height="30" alt="[PostgreSQL Logo]" src="materials/tools-icons/postgresql-497x512.png" /> &nbsp;
+<img height="30" alt="[Spring Logo]" src="materials/tools-icons/springio-icon.svg" /> &nbsp;
+<img height="30" alt="[Git Logo]" src="materials/tools-icons/git-scm-icon.svg" /> &nbsp;
+<img height="30" alt="[Docker Logo]" src="materials/tools-icons/docker-tile.svg" /> &nbsp;
+<img height="30" alt="[PostgreSQL Logo]" src="materials/tools-icons/postgresql-icon.svg" /> &nbsp;
 <img height="30" alt="[Photoshop Logo]" src="materials/tools-icons/photoshop-512x512.png" /> &nbsp;
 <img height="30" alt="[Premier Pro Logo]" src="materials/tools-icons/premierpro-512x512.png" /> &nbsp;
 <img height="30" alt="[After Effects Logo]" src="materials/tools-icons/aftereffects-512x512.png" /> &nbsp;
