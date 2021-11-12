@@ -73,8 +73,7 @@ C:\Users\bru1t>
 
 #### 📊 My Github Stats:
 
-<img height="160" alt="[bru1t's Main Stats]" src="https://github-readme-stats.vercel.app/api?username=bru1t&hide_title=true&show_icons=true&icon_color=fff&text_color=fff&theme=vue-dark&line_height=30&border_radius=20"> <br />
-<img height="128" alt="[bru1t's Languages Stats]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bru1t&hide_title=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&theme=vue-dark&line_height=30&border_radius=12" />
+![Metrics](https://metrics.lecoq.io/bru1t?template=classic&base.header=0&base.activity=0&base.community=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
 
 ---
 
