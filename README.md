@@ -77,6 +77,14 @@ C:\Users\bru1t>
 
 ---
 
-##### ☕ You can get me a coffee, if You like what I do:
+##### ☕ You can get me a coffee, if You like what I do
+###### Rubles
 
-<a href='https://ko-fi.com/Q5Q54N1H4' target='_blank'><img height="42" border="0" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Me a Coffee at ko-fi.com'></a>
+Tinkoff: 5536 9138 6490 9359  
+Raiffeisen: 5379 6530 4384 9510
+
+###### Cryptocurrency
+
+USDT (BEP20): 0x87b1b2ec62dfeaf58c27f136cab6bbd75f84892b  
+XNO: nano_1tnga8itui6rf4imfroyboxzezt86ajwnjh9s6m11ybrfztj3fwhb4pbxc1i  
+ETH (BEP20): 0x87b1b2ec62dfeaf58c27f136cab6bbd75f84892b  
