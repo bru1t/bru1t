@@ -80,11 +80,11 @@ C:\Users\bru1t>
 ##### ☕ You can get me a coffee, if You like what I do
 ###### Rubles
 
-Tinkoff: 5536 9138 6490 9359  
-Raiffeisen: 5379 6530 4384 9510
+Tinkoff: `5536 9138 6490 9359`  
+Raiffeisen: `5379 6530 4384 9510`
 
 ###### Cryptocurrency
 
-USDT (BEP20): 0x87b1b2ec62dfeaf58c27f136cab6bbd75f84892b  
-XNO: nano_1tnga8itui6rf4imfroyboxzezt86ajwnjh9s6m11ybrfztj3fwhb4pbxc1i  
-ETH (BEP20): 0x87b1b2ec62dfeaf58c27f136cab6bbd75f84892b  
+USDT (BEP20): `0x3dEf039e607F49621467a9C8F3244CFD648269Ea`  
+Ethereum (ETH): `0x3dEf039e607F49621467a9C8F3244CFD648269Ea`  
+Nano (XNO): `nano_1qhjndpaty77f6p7uc85bf3xx1mjku3xrw5ca9gafodz99wgqa9pzccztppq`  
