@@ -13,6 +13,10 @@
   <img height="30" alt="[LinkedIn Logo]" src="materials/media-icons/linkedin-circle-512x512.png" />
 </a> &nbsp;
 
+<a href="https://leetcode.com/bru1t/" target="_blank" title="LeetCode Page">
+  <img height="30" alt="[LeetCode Logo]" src="materials/media-icons/leetcode-circle-512x512.png" />
+</a> &nbsp;
+
 <a href="https://open.spotify.com/user/qlfeqhdjkznrcggijvyidxohq?si=42d180591660430a" target="_blank" title="Spotify Page">
   <img height="30" alt="[Spotify Logo]" src="materials/media-icons/spotify-circle-512x512.png" />
 </a>
