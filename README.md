@@ -79,6 +79,7 @@ C:\Users\bru1t>
 
 ![Metrics](https://metrics.lecoq.io/bru1t?template=classic&base.header=0&base.activity=0&base.community=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
 
+<!-- DONATION INFO UPDATE
 ---
 
 ##### ☕ You can get me a coffee, if You like what I do
@@ -91,4 +92,5 @@ Raiffeisen: `5379 6530 4384 9510`
 
 USDT (BEP20): `0x3dEf039e607F49621467a9C8F3244CFD648269Ea`  
 Ethereum (ETH): `0x3dEf039e607F49621467a9C8F3244CFD648269Ea`  
-Nano (XNO): `nano_1qhjndpaty77f6p7uc85bf3xx1mjku3xrw5ca9gafodz99wgqa9pzccztppq`  
+Nano (XNO): `nano_1qhjndpaty77f6p7uc85bf3xx1mjku3xrw5ca9gafodz99wgqa9pzccztppq`
+-->
