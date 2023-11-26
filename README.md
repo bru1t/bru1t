@@ -1,6 +1,6 @@
 # Alexey "bru1t" Kuznetsov
 
-
+<!-- LINKS INFO
 <a href="https://vk.com/bru1t" target="_blank" title="VK Page">
   <img height="30" alt="[VK Logo]" src="materials/media-icons/vk-circle-512x512.png" />
 </a> &nbsp;
@@ -22,7 +22,7 @@
 </a>
 
 ---
-
+-->
 ```
 GitHub
 (c) Microsoft Corporation. All rights reserved.
@@ -40,14 +40,10 @@ to make it look pretty.
 C:\Users\bru1t>
 ```
 
----
-
 #### 🤔 About:
 - 🎓 Bachelor's degree in Computer Science at MSU
 - 👨‍👦‍👦 I love being involved in communities and help others do their job and grow
 - 🤘 I like to do something memorable, even if it's my shit coding
-
----
 
 #### 💻 Languages:
 
@@ -60,8 +56,6 @@ C:\Users\bru1t>
 <img height="30" alt="[HTML5 Logo]" src="materials/lang-icons/html5-icon.svg" /> &nbsp;
 <img height="30" alt="[CSS3 Logo]" src="materials/lang-icons/css-icon.svg" />
 
----
-
 #### 🧰 Tools:
 
 <img height="30" alt="[Spring Logo]" src="materials/tools-icons/springio-icon.svg" /> &nbsp;
@@ -73,13 +67,14 @@ C:\Users\bru1t>
 <img height="30" alt="[After Effects Logo]" src="materials/tools-icons/aftereffects-512x512.png" /> &nbsp;
 <img height="30" alt="[Illustrator Logo]" src="materials/tools-icons/illustrator-512x512.png" />
 
+<!-- GITHUB STATS INFO
 ---
 
 #### 📊 My Github Stats:
 
 ![Metrics](https://metrics.lecoq.io/bru1t?template=classic&base.header=0&base.activity=0&base.community=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
-
-<!-- DONATION INFO UPDATE
+-->
+<!-- DONATION INFO
 ---
 
 ##### ☕ You can get me a coffee, if You like what I do
